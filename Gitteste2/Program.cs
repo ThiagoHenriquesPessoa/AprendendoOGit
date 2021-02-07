@@ -14,6 +14,7 @@ namespace Gitteste2
             Console.WriteLine("Good Morning!");
             Console.WriteLine("Good Afternoom!");
             Console.WriteLine("Good Night!");
+            Console.WriteLine("vamos la");
             Console.ReadLine();
 
         }
