@@ -10,11 +10,10 @@ namespace Gitteste2
     {
         static void Main(string[] args)
         {
-            
+
             Console.WriteLine("Good Morning!");
             Console.WriteLine("Good Afternoom!");
-            
-
+            Console.WriteLine("Good Night!");
             Console.ReadLine();
 
         }
